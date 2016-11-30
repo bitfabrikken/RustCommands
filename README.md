@@ -3,7 +3,6 @@ A listing of all Rust in-game commands - for the game Rust by Facepunch Studios
 
 List is generated via RCON, where "version" and "find ." is typed and copy pasted into this document
 
-
 Protocol: 1926.138.1
 Build Version: 1079.78
 Build Date: Thursday, November 24, 2016 6:39:40 PM
