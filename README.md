@@ -2,7 +2,7 @@
 A listing of all Rust in-game commands - for the game Rust by Facepunch Studios
 
 List is generated via RCON, where "version" and "find ." is typed and copy pasted into this document
-
+<pre>
 Protocol: 1926.138.1
 Build Version: 1079.78
 Build Date: Thursday, November 24, 2016 6:39:40 PM
@@ -291,3 +291,4 @@ Commands:
  weather.rain( void ) no description
  xmas.refill( void ) no description
  global.dump( void ) no description
+</pre>
